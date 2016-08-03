@@ -1,0 +1,6 @@
+// This is my first HelloWorld JAVA program to share it on GitHub
+
+public static void main(Static args[])
+{
+  System.out.println("Hello Welcome to Github");
+  }
